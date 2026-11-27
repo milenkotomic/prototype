@@ -1,0 +1,13 @@
+{
+  "name": "prototype",
+  "version": "0.1.0",
+  "description": "Build a throwaway prototype that answers one design question: a self-contained HTML demo to push a state model through its awkward cases, or three structurally different UI variants on the real route. Keeps the answer, discards the code.",
+  "author": {
+    "name": "Milenko Tomic",
+    "url": "https://github.com/milenkotomic"
+  },
+  "homepage": "https://github.com/milenkotomic/prototype",
+  "repository": "https://github.com/milenkotomic/prototype",
+  "license": "MIT",
+  "keywords": ["prototype", "design", "state-machine", "ui", "html"]
+}
